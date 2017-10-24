@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>4a2ce4ff-809e-49f2-851b-98ea581a514e</ProjectGuid>
+    <ProjectGuid>056ee8c7-bc0c-495b-a77b-f1ad75870037</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Data</RootNamespace>
-    <AssemblyName>Data</AssemblyName>
+    <RootNamespace>WebAPI.Data</RootNamespace>
+    <AssemblyName>WebAPI.Data</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
