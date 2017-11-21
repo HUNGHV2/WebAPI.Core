@@ -45,12 +45,12 @@
     <Compile Include="Common\Enums.cs" />
     <Compile Include="Common\PagedResults.cs" />
     <Compile Include="Configuration\CustomException.cs" />
-    <Compile Include="Interfaces\NewsServices.cs" />
+    <Compile Include="Services\NewsServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\Request\PagingRequest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Services\" />
+    <Folder Include="Interfaces\" />
     <Folder Include="ViewModels\Response\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
