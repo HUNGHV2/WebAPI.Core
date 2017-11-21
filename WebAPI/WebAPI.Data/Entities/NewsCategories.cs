@@ -1,9 +1,9 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
-namespace WebAPI.Data
+namespace WebAPI.Data.Entities
 {
-    public class NewsCategories
+    public class NewsCategories:Entity
     {
         public NewsCategories()
         {
